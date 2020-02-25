@@ -10,12 +10,6 @@
 * Google Maps
 * Materialize CSS
 
-## Used technologies
-* Vue JS
-* Firebase
-* Google Maps
-* Materialize CSS
-
 
 ## Project setup
 ```
