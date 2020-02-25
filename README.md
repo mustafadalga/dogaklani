@@ -1,6 +1,7 @@
 # Doğa Klanı
 
-> Kullanıcıların konumlarını harita üzerinde gösteren ve istenilen kullanıcıların profil duvarına yorum veya gönderi paylaşımı yapabileceğiniz bir Vue JS uygulamasıdır.
+> It is an application that you can target any location on the map and see the users. This Vue.js app will allows you to comment their story boards.
+
 
 
 ## Used technologies
