@@ -1,4 +1,20 @@
-# dogaklani
+# Doğa Klanı
+
+> Kullanıcıların konumlarını harita üzerinde gösteren ve istenilen kullanıcıların profil duvarına yorum veya gönderi paylaşımı yapabileceğiniz bir Vue JS uygulamasıdır.
+
+
+## Used technologies
+* Vue JS
+* Firebase
+* Google Maps
+* Materialize CSS
+
+## Used technologies
+* Vue JS
+* Firebase
+* Google Maps
+* Materialize CSS
+
 
 ## Project setup
 ```
